@@ -32,6 +32,8 @@ Loading Script verwendet, das ab Version 4.0 nicht mehr unterstützt wird.
 | `04_train_logistic_regression.py` | Trainiert Logistic Regression (balanced) zum Vergleich |
 | `05_kategorienvergleich.py` | Vergleicht die Accuracy beider Modelle je Produktkategorie |
 | `06_sentiment_polaritaet.py` | Reduziert die Bewertung auf 3 Klassen (negativ/neutral/positiv) und klassifiziert erneut |
+| `07_fehleranalyse.py` | Sucht konkrete Beispielrezensionen, die falsch klassifiziert wurden (Basis für Kapitel 4.6) |
+| `08_baseline_check.py` | Prüft die tatsächlichen Mehrheitsklassen-Baselines je Kategorie im Testdatensatz (Basis für Tabelle 7) |
 
 Ausgaben (CSV-Dateien, Konfusionsmatrizen, Klassifikationsberichte) landen automatisch
 in `data/processed/` bzw. `results/`.
