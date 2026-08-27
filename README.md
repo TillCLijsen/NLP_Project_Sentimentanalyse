@@ -40,8 +40,8 @@ in `data/processed/` bzw. `results/`.
 
 | Modell | Accuracy | Macro F1 |
 |---|---|---|
-| Naive Bayes | 0,672 | 0,24 |
-| Logistic Regression (balanced) | 0,644 | 0,47 |
-| Logistic Regression, 3-Klassen-Polarität | 0,803 | 0,62 |
+| Naive Bayes | 0,673 | 0,25 |
+| Logistic Regression (balanced) | 0,657 | 0,48 |
+| Logistic Regression, 3-Klassen-Polarität | 0,819 | 0,64 |
 
 Ausführliche Diskussion siehe Projektbericht.
